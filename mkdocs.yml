@@ -2,7 +2,12 @@ site_name: UNC Game Dev Club Wiki Documentation
 nav:
   - Home: index.md
   - About: about.md
+  - Group Projects: group_projects.md
   - Schedule: schedule.md
   - Resources: resources.md
+    subcategories:
+    - Presentations: presentations.md
+    - Videos: videos.md
+    - Practice Projects: practice_projects.md
 theme:
   name: material
