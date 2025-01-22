@@ -1,0 +1,8 @@
+site_name: UNC Game Dev Club Wiki Documentation
+nav:
+  - Home: index.md
+  - About: about.md
+  - Schedule: schedule.md
+  - Resources: resources.md
+theme:
+  name: material
