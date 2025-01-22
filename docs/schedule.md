@@ -4,11 +4,11 @@
 
 Schedule of meetings:  
 Workshop  
-Group Work Session
+Group Work Session  
 Workshop  
-Group Work Session
+Group Work Session  
 Workshop  
-Group Work Session
-Workshop
+Group Work Session  
+Workshop  
 
 You get the idea
