@@ -1,5 +1,5 @@
 # About
-The UNC-CH Game Development Club provides a space for anyone with an interest in creating videos alongside resources which aim to facilitate that interest. Whether you are a praticed GameDev or have zero experience. Because games are an intrinsically interdisciplinary medium, the club is open to anyone interested in programming, art, music, writing, game theory, and more. 
+The UNC-CH Game Development Club provides a space for anyone with an interest in creating video games alongside resources which aim to facilitate that interest. Whether you are a praticed GameDev or have zero experience. Because games are an intrinsically interdisciplinary medium, the club is open to anyone interested in programming, art, music, writing, game theory, and more. 
 
 Although we are technically a computer science club, we aim to emphasize the collaborative nature of game development and the numerous opportunities therein, fostering people's personal and professional development in their medium of choice.
 
@@ -17,4 +17,4 @@ Although we are technically a computer science club, we aim to emphasize the col
 
 #### Important Links
 
-**Discord** | **Heel Life** | **Contact** 
+[**Discord**](https://discord.gg/bMHxVPk) | [**Heel Life**](https://heellife.unc.edu/organization/uncgamedev) | [**Contact**: uncgamedev@gmail.com](uncgamedev@gmail.com)
