@@ -4,7 +4,9 @@ nav:
   - About: about.md
   - Group Projects: group_projects.md
   - Schedule: schedule.md
-  - Resources: resources.md
-  
+  - Events: events.md
+  - Resources:
+    - Presentations: presentations.md
+    - Practice Projects: practice_projects.md
 theme:
   name: material
