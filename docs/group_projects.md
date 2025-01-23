@@ -15,6 +15,7 @@ If you decide to pitch a game, you must be a least a little prepared to 'lead' y
 #### Preparations
 
 Ahead of Project Session 1, we ask that you have a small pitch of your game ready to present to the club. It could be a presentation, or a simple elevator pitch, however you might want to keep in mind:
+
 - Concept
 - Main Mechanic(s)
 - Scope
