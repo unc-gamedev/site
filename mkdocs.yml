@@ -6,7 +6,11 @@ nav:
   - Schedule: schedule.md
   - Events: events.md
   - Resources:
-    - Presentations: presentations.md
+    - Programming: programming_resources.md
+    - Art: art_resources.md
+    - Music: music_resources.md
+    - Writing: writing_resources.md
+    - Game Design: game_design_resources.md
     - Practice Projects: practice_projects.md
 theme:
   name: material

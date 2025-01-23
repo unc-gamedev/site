@@ -3,7 +3,7 @@
 
 | **Date** | **Meeting Type** | **Details** | **Location** | 
 | --- | --- | --- | ---: | 
-| 1/23/2025 | Workshop - Finishing an MVP | Learn about Minimum Viable Product and general project management and roles.| [GN 101](https://www.google.com/maps/place/Greenlaw+Hall/@35.9100893,-79.0560896,959m/data=!3m1!1e3!4m6!3m5!1s0x89acc2e90a37f625:0x76e0e063cc27832b!8m2!3d35.9103597!4d-79.049237!16s%2Fg%2F11hbpqyd_s?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D) | 
+| 1/23/2025 | Workshop - Finishing an MVP | Learn about Minimum Viable Product and general project management and roles.| [GRLW 101](https://www.google.com/maps/place/Greenlaw+Hall/@35.9100893,-79.0560896,959m/data=!3m1!1e3!4m6!3m5!1s0x89acc2e90a37f625:0x76e0e063cc27832b!8m2!3d35.9103597!4d-79.049237!16s%2Fg%2F11hbpqyd_s?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D) | 
 | 1/30/2025 | Project Session 1 - Making a pitch| Pitch the long-term projects you want to make this semester and find a team.| TBD | 
 | 2/06/2025| Workshop - Assets and Workflow | Learn how to bring your assets into a game engine and understand asset needs accross different platforms.| TBD | 
 | 2/13/2025 | Project Session 2 - Complete MVP | Showcase the MVP for your long-term project.| TBD | 

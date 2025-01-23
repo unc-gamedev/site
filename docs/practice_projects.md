@@ -1,0 +1,1 @@
+This page contains links to the practice projects used in workshops.
