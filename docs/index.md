@@ -6,13 +6,14 @@ Use this Wiki to get up-to-date info on club meetings and events, as well as acc
 
 ### Upcoming
 
-- **Workshop 1: Finishing an MVP**. Learn about Minimum Viable Product and general project management and roles. 1/23 5-7PM @ [GRLW 101](https://www.google.com/maps/place/Greenlaw+Hall/@35.9100893,-79.0560896,959m/data=!3m1!1e3!4m6!3m5!1s0x89acc2e90a37f625:0x76e0e063cc27832b!8m2!3d35.9103597!4d-79.049237!16s%2Fg%2F11hbpqyd_s?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D)
+- **Workshop 1: Finishing an MVP**. Learn about Minimum Viable Product and general project management and roles. 1/23 5-7PM @ [GRLW 304](https://www.google.com/maps/place/Greenlaw+Hall/@35.9100893,-79.0560896,959m/data=!3m1!1e3!4m6!3m5!1s0x89acc2e90a37f625:0x76e0e063cc27832b!8m2!3d35.9103597!4d-79.049237!16s%2Fg%2F11hbpqyd_s?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D)
 - [**Global Game Jam 2025 @ UNC Kickoff.**](https://discord.gg/zWjjjWJRjX) In-person site for the 2025 Global Game Jam at UNC, a 48-hour GameJam participated in across the world! 1/24 5PM @ [SN 011](https://www.google.com/maps?sca_esv=f96ed4fcf9f72801&output=search&q=sitterson+hall+unc&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkW1DRbm01j6DCVS0r1sTxn7h_rt6mVhwDmwtd3hPZjM8xOYJM4hmmrxWbUY3sD5VWIMokj2y_vGi8fBpFPuBNa8hz4Li0jj_jR95F_P7TRXoz1_1czWVCK2r7AVMe-2AJv68T3e8ks-FkqvSCyKg_VRMpSDaAtUyNGf11siL50Sb-jeqHuPOTj28B3ejbm7-I1baovHQ&entry=mc&ved=1t:200715&ictx=111)
 
 ### Announcements 
 
 | **Time**| **Content**|
 | --- | --- |
+|1/23/2025 : 10:57 AM | Hey everyone! Our first workshop is this evening - Don't forget to mark interested if you plan to go. We will have a bit of an orientation and then our first workshop in project management. We could not get greenlaw 101 the entire time - we will spend 5-6pm in Greenlaw 304 and 6-7pm in Greenlaw 101 if our reservations go through! Most workshops are recorded and slides posted, so for those who can't make it due to the weather, fear not. We also have a website that will be revealed at the meeting today that should be a good one stop resource for all club related things!|
 | 1/20/2025 : 1:45 PM | Our first workshop + general club orientation is going to be this Thursday, 1/23, from 5-7, hopefully in Greenlaw 101! The topic and workshop schedule is TBD but will be similar to How to Finish MVP/Manage a Project, in preparation for the semester. Anyone of any experience level is welcome to join.| 
 
 > "Man this club is so cool. I wish the officers got paid."  

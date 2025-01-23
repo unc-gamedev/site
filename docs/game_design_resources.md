@@ -4,3 +4,6 @@
 - [GDC](https://www.youtube.com/@Gdconf) - presentations and lectures from professionals about their games across a variety of topics
 #### Presentations
 - [Fundamentals of Game Design](https://docs.google.com/presentation/d/1_Ky0s1Iip__FOwPXXez9tv4c3ZvzBKjVo6pSmqICbC0/edit#slide=id.p)
+
+#### Documents
+- [Game Design Document Template](https://docs.google.com/document/d/1524EEoIqlh9OWK85PHf1vyT74a-ybcPM/edit#heading=h.gjdgxs)
