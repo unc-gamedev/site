@@ -4,6 +4,7 @@
 - [GDC](https://www.youtube.com/@Gdconf) - presentations and lectures from professionals about their games across a variety of topics
 #### Presentations
 - [Fundamentals of Game Design](https://docs.google.com/presentation/d/1_Ky0s1Iip__FOwPXXez9tv4c3ZvzBKjVo6pSmqICbC0/edit#slide=id.p)
+- [How to Finish an MVP](https://docs.google.com/presentation/d/1huQEEEcL2LR9Hkq9C4eCzqoySYE8Rld6q8wwIwRdnl4/edit#slide=id.g328ddb1811f_0_0)
 
 #### Documents
 - [Game Design Document Template](https://docs.google.com/document/d/1524EEoIqlh9OWK85PHf1vyT74a-ybcPM/edit#heading=h.gjdgxs)
