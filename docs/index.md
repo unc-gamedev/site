@@ -7,6 +7,7 @@ Use this Wiki to get up-to-date info on club meetings and events, as well as acc
 ### Upcoming
 - **Workshop 2: Assets and Workflow**. Learn how to bring your assets into a game engine and understand asset needs accross different platforms. 2/06 5-7PM @ [GRLW 101](https://www.google.com/maps/place/Greenlaw+Hall/@35.9100893,-79.0560896,959m/data=!3m1!1e3!4m6!3m5!1s0x89acc2e90a37f625:0x76e0e063cc27832b!8m2!3d35.9103597!4d-79.049237!16s%2Fg%2F11hbpqyd_s?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D)
 - **Video Game Music Jam Session & Hangout**. Bring and instrument to jam to video game music, play party games, or just hang out! 2/09 2-5 PM @ [Hanes 121](https://www.google.com/maps/place/Hanes+Art+Center,+Chapel+Hill,+NC+27514/@35.9121955,-79.0571989,17z/data=!3m1!4b1!4m6!3m5!1s0x89acc2e7ea663ce3:0x74eaf66675cb8647!8m2!3d35.9121955!4d-79.054624!16s%2Fg%2F1tfn3l_0?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoJLDEwMjExMjM0SAFQAw%3D%3D) 
+- **Project Session 2: Complete MVP**. Showcase the MVP for your long-term project. 2/13 5-7PM @ [GRLW 101](https://www.google.com/maps/place/Greenlaw+Hall/@35.9100893,-79.0560896,959m/data=!3m1!1e3!4m6!3m5!1s0x89acc2e90a37f625:0x76e0e063cc27832b!8m2!3d35.9103597!4d-79.049237!16s%2Fg%2F11hbpqyd_s?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D)
 ### Announcements 
 
 | **Time**| **Content**|
