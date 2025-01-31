@@ -5,10 +5,8 @@ Welcome to the official wiki of the UNC GameDev Club! This Wiki acts as a centra
 Use this Wiki to get up-to-date info on club meetings and events, as well as access our club-specific GameDev resources for workshop and personal use.
 
 ### Upcoming
-
-- [**Global Game Jam 2025 @ UNC Kickoff.**](https://discord.gg/zWjjjWJRjX) In-person site for the 2025 Global Game Jam at UNC, a 48-hour GameJam participated in across the world! 1/24 5PM @ [SN 011](https://www.google.com/maps?sca_esv=f96ed4fcf9f72801&output=search&q=sitterson+hall+unc&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkW1DRbm01j6DCVS0r1sTxn7h_rt6mVhwDmwtd3hPZjM8xOYJM4hmmrxWbUY3sD5VWIMokj2y_vGi8fBpFPuBNa8hz4Li0jj_jR95F_P7TRXoz1_1czWVCK2r7AVMe-2AJv68T3e8ks-FkqvSCyKg_VRMpSDaAtUyNGf11siL50Sb-jeqHuPOTj28B3ejbm7-I1baovHQ&entry=mc&ved=1t:200715&ictx=111)
-- **Project Session 1: Making A Pitch**. Pitch the long-term projects you want to make this semester and find a team. 1/30 5-7PM @ TBD
-- **Workshop 2: Assets and Workflow**. Learn how to bring your assets into a game engine and understand asset needs accross different platforms. 2/06 5-7PM @ TBD
+- **Workshop 2: Assets and Workflow**. Learn how to bring your assets into a game engine and understand asset needs accross different platforms. 2/06 5-7PM @ [GRLW 101](https://www.google.com/maps/place/Greenlaw+Hall/@35.9100893,-79.0560896,959m/data=!3m1!1e3!4m6!3m5!1s0x89acc2e90a37f625:0x76e0e063cc27832b!8m2!3d35.9103597!4d-79.049237!16s%2Fg%2F11hbpqyd_s?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D)
+- **Video Game Music Jam Session & Hangout**. Bring and instrument to jam to video game music, play party games, or just hang out! 2/09 2-5 PM @ [Hanes 121](https://www.google.com/maps/place/Hanes+Art+Center,+Chapel+Hill,+NC+27514/@35.9121955,-79.0571989,17z/data=!3m1!4b1!4m6!3m5!1s0x89acc2e7ea663ce3:0x74eaf66675cb8647!8m2!3d35.9121955!4d-79.054624!16s%2Fg%2F1tfn3l_0?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoJLDEwMjExMjM0SAFQAw%3D%3D) 
 ### Announcements 
 
 | **Time**| **Content**|
