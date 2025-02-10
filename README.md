@@ -40,6 +40,8 @@ ng serve
 ```
 
 The site will auto-reload. Make changes in the `frontend/src` folder, where all the site pages are located.
+Read the frontend README file for some resources on how to use Angular.
+Each page of the site is in its own folder and has its own html, ts and css file. Edit the contents of the HTML to edit the site appearance.
 
 ### Edit models and databases (backend)
 
