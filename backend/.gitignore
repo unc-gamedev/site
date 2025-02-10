@@ -1,0 +1,35 @@
+# Byte-compiled / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Dependency folders
+site/
+dist/
+build/
+
+# Logs and temp files
+*.log
+*.out
+*.err
+*.swp
+*.swo
+*.DS_Store
+
+# Database files
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+.env.*
+*.pem
+*.key
+config.json
