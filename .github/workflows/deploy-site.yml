@@ -33,8 +33,7 @@ jobs:
       # Install dependencies from requirements.txt
       - name: Install dependencies
         run: |
-          pip install mkdocs
-          pip install mkdocs-material
+          pip install mkdocs mkdocs-material
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
