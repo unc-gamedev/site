@@ -1,9 +1,10 @@
-site_name: UNC Game Dev Club Site
+site_name: UNC Game Dev Club Wiki Documentation
 nav:
   - Home: index.md
   - About: about.md
   - Group Projects: group_projects.md
   - Schedule: schedule.md
+  - Events: events.md
   - Resources:
     - Programming: programming_resources.md
     - Art: art_resources.md
