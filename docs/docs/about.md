@@ -13,4 +13,4 @@ Although we are technically a computer science club, we aim to emphasize the col
 
 #### Important Links
 
-[**Discord**](https://discord.gg/bMHxVPk) | [**Heel Life**](https://heellife.unc.edu/organization/uncgamedev) | [**Contact**: uncgamedev@gmail.com](uncgamedev@gmail.com) | [**itch.io**](https://unc-game-dev.itch.io/)
+[**Discord**](https://discord.gg/bMHxVPk) | [**Heel Life**](https://heellife.unc.edu/organization/uncgamedev) | [**Contact**: uncgamedev@gmail.com](mailto:uncgamedev@gmail.com) | [**itch.io**](https://unc-game-dev.itch.io/)
